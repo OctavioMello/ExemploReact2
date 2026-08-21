@@ -11,7 +11,7 @@ const App = () => {
     <Dados usuario="Dev" email="dev@email.com"/>
     <Contador/>
     <Treinamento/>
-    <Curso curso="Engenharia de Software" descrição="Programação" data="21/08/2026"/>
+    <Curso curso="Engenharia de Software" descricao="Programação" data="21/08/2026"/>
     </>
   )
 }
