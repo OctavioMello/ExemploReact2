@@ -1,8 +1,10 @@
+import Aluno from "./components/Aluno"
+
 const App = () => {
   return (
-    <div>
-    
-    </div>
+    <>
+    <Aluno nome="Fiap" idade="30"/>
+    </>
   )
 }
 
